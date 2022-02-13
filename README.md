@@ -1,2 +1,3 @@
 # web
-my own webpage
+my own webpage 
+using Azure Static Web apps
